@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+}
+
+thead tr td{
+    text-align: center;
+    background-color:rgb(255, 90, 13);
+    color: rgb(0, 0, 0);
+}
+
+table, tr, td{
+    border-width: 1;
+    border-style: groove;
+    border-color: aqua;
+    text-align: center;
+}
+
+table{
+    width: 100%;
+}
+
+p{
+    font-weight: bold;
+    text-align: right;
+}
